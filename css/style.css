@@ -16,3 +16,10 @@ body{
     width: fit-content;
     margin-right: 60px;
 }
+
+footer {
+    text-align: center;
+    padding: 2px;
+    background-color: rgb(10, 234, 250);
+    color: rgb(254, 255, 255);
+  }
