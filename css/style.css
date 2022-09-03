@@ -1,0 +1,18 @@
+.foto-perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid rgb(10, 234, 250);
+}
+
+body{
+    background-color: #f2f2f2;
+}
+
+.row{
+    justify-content: center;
+}
+
+.col-md-6{
+    width: fit-content;
+    margin-right: 60px;
+}
